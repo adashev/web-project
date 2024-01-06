@@ -8,6 +8,16 @@
 # Вставить ссылку на слово <a name='word_reference'></a>
 
 [ссылка на Ютубчик](https://www.youtube.com/)
+текст текст
+текст текст
+текст текст
+текст текст
+текст текст
+текст текст
+текст текст
+текст текст
+текст текст
+текст текст
 
 # Сноски (VS CODE не отрисовывает) <a name='footnote'></a>
 
@@ -16,8 +26,12 @@
 [^номер сноски]
 
 Here is a simple footnote [^1].
+A footnote can also have multiple lines [^2].
+
 
 [^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
 
   # Автосодержание <a name='list_of_contents'></a>
 если мы хотим создать авто оглавление, то около каждого заголовка нужно добавить специальный тег:
